@@ -1,0 +1,43 @@
+{
+  "name": "crop-recommend",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "serve": "vue-cli-service serve --port 3002",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@amap/amap-jsapi-loader": "^1.0.1",
+    "@arcgis/core": "^4.28.10",
+    "@vue-office/pdf": "^1.6.5",
+    "@vueup/vue-quill": "^1.0.0-alpha.40",
+    "axios": "^1.6.5",
+    "cors": "^2.8.5",
+    "echarts": "^4.1.0",
+    "element-plus": "^2.5.1",
+    "file-saver": "^2.0.5",
+    "highcharts": "^11.4.0",
+    "highcharts-vue": "^2.0.0",
+    "http-proxy": "^1.18.1",
+    "jsdom": "^24.0.0",
+    "lodash": "^4.17.21",
+    "mockjs": "^1.1.0",
+    "pinia": "^2.1.7",
+    "pinia-persistedstate-plugin": "^0.1.0",
+    "pinia-plugin-persistedstate": "^3.2.1",
+    "smooth-scroll-into-view-if-needed": "^2.0.2",
+    "vue": "^3.3.11",
+    "vue-router": "^4.2.5",
+    "vue3-mini-weather": "^0.1.2",
+    "xlsx": "^0.16.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.5.2",
+    "@vue/cli-service": "^5.0.8",
+    "sass": "^1.69.7",
+    "vite": "^5.0.10"
+  }
+}

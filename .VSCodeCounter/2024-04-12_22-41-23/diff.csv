@@ -1,0 +1,36 @@
+"filename", "language", "vue", "JavaScript", "comment", "blank", "total"
+"d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\admin\User.vue", "vue", 972, 0, 9, 82, 1063
+"d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\api\argomanage.js", "JavaScript", 0, 28, 0, 0, 28
+"d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\api\grow.js", "JavaScript", 0, 7, 0, 2, 9
+"d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\api\recommend.js", "JavaScript", 0, 6, 0, 0, 6
+"d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\api\soilcrop.js", "JavaScript", 0, 27, 1, 4, 32
+"d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\api\user.js", "JavaScript", 0, 12, 0, 0, 12
+"d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\router\index.js", "JavaScript", 0, 2, 0, 0, 2
+"d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\views\Layout.vue", "vue", -36, 0, 18, 0, -18
+"d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\views\LayoutAdmin.vue", "vue", 12, 0, 0, 0, 12
+"d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\views\argomanagement\CropCalendar.vue", "vue", 330, 0, 0, 21, 351
+"d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\views\argomanagement\CropCalendar1.vue", "vue", -32, 0, 0, -4, -36
+"d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\views\argomanagement\RecommendArgo.vue", "vue", 2049, 0, 14, 140, 2203
+"d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\views\commpany\Commpany.vue", "vue", 164, 0, 0, 16, 180
+"d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\views\grow\ModelData.vue", "vue", 407, 0, 2, 21, 430
+"d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\views\grow\Realdata.vue", "vue", 55, 0, 0, 0, 55
+"d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\views\landandsoil\Landmanage copy.vue", "vue", 138, 0, 0, 8, 146
+"d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\views\landandsoil\Landmanage.vue", "vue", 988, 0, 11, 94, 1093
+"d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\views\landandsoil\Soiltype.vue", "vue", 640, 0, 5, 52, 697
+"d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\views\landandsoil\Soiltype1.vue", "vue", 678, 0, 5, 56, 739
+"d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\views\recommend\Recommend.vue", "vue", -7, 0, 0, 0, -7
+"d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\views\recommend\RecommendIndex.vue", "vue", 247, 0, -24, 29, 252
+"d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\views\seedinfo\SeedPurchase.vue", "vue", 0, 0, 0, -1, -1
+"d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\views\seedinfo\Seedcategory.vue", "vue", 0, 0, 0, -1, -1
+"d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\views\seedinfo\Seedharvest.vue", "vue", 0, 0, 0, -1, -1
+"d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\views\seedinfo\Seedoutput.vue", "vue", 0, 0, 0, -1, -1
+"d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\views\seedinfo\Seedquality.vue", "vue", 0, 0, 0, -1, -1
+"d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\views\seedinfo\Seedstorage.vue", "vue", 0, 0, 0, -1, -1
+"d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\views\user\Cellphone.vue", "vue", -187, 0, -1, -13, -201
+"d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\views\user\Email.vue", "vue", -187, 0, -1, -13, -201
+"d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\views\user\History.vue", "vue", 725, 0, 17, 64, 806
+"d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\views\user\Out.vue", "vue", -187, 0, -1, -13, -201
+"d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\views\user\UserAvatar.vue", "vue", -88, 0, 0, -13, -101
+"d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\views\user\UserInfo.vue", "vue", -58, 0, 0, -4, -62
+"d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\views\user\UserResetPassword.vue", "vue", -3, 0, 0, 0, -3
+"Total", "-", 6620, 82, 55, 523, 7280

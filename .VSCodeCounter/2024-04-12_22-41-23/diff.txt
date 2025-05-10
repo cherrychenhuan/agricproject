@@ -1,0 +1,72 @@
+Date : 2024-04-12 22:41:23
+Directory : d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend
+Total : 34 files,  6702 codes, 55 comments, 523 blanks, all 7280 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| vue        |         28 |      6,620 |         54 |        517 |      7,191 |
+| JavaScript |          6 |         82 |          1 |          6 |         89 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++---------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                          | files      | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                             |         34 |      6,702 |         55 |        523 |      7,280 |
+| src                                                                                                           |         34 |      6,702 |         55 |        523 |      7,280 |
+| src\admin                                                                                                     |          1 |        972 |          9 |         82 |      1,063 |
+| src\api                                                                                                       |          5 |         80 |          1 |          6 |         87 |
+| src\router                                                                                                    |          1 |          2 |          0 |          0 |          2 |
+| src\views                                                                                                     |         27 |      5,648 |         45 |        435 |      6,128 |
+| src\views (Files)                                                                                             |          2 |        -24 |         18 |          0 |         -6 |
+| src\views\argomanagement                                                                                      |          3 |      2,347 |         14 |        157 |      2,518 |
+| src\views\commpany                                                                                            |          1 |        164 |          0 |         16 |        180 |
+| src\views\grow                                                                                                |          2 |        462 |          2 |         21 |        485 |
+| src\views\landandsoil                                                                                         |          4 |      2,444 |         21 |        210 |      2,675 |
+| src\views\recommend                                                                                           |          2 |        240 |        -24 |         29 |        245 |
+| src\views\seedinfo                                                                                            |          6 |          0 |          0 |         -6 |         -6 |
+| src\views\user                                                                                                |          7 |         15 |         14 |          8 |         37 |
++---------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++---------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                                                      | language   | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\admin\User.vue                         | vue        |        972 |          9 |         82 |      1,063 |
+| d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\api\argomanage.js                      | JavaScript |         28 |          0 |          0 |         28 |
+| d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\api\grow.js                            | JavaScript |          7 |          0 |          2 |          9 |
+| d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\api\recommend.js                       | JavaScript |          6 |          0 |          0 |          6 |
+| d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\api\soilcrop.js                        | JavaScript |         27 |          1 |          4 |         32 |
+| d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\api\user.js                            | JavaScript |         12 |          0 |          0 |         12 |
+| d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\router\index.js                        | JavaScript |          2 |          0 |          0 |          2 |
+| d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\views\Layout.vue                       | vue        |        -36 |         18 |          0 |        -18 |
+| d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\views\LayoutAdmin.vue                  | vue        |         12 |          0 |          0 |         12 |
+| d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\views\argomanagement\CropCalendar.vue  | vue        |        330 |          0 |         21 |        351 |
+| d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\views\argomanagement\CropCalendar1.vue | vue        |        -32 |          0 |         -4 |        -36 |
+| d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\views\argomanagement\RecommendArgo.vue | vue        |      2,049 |         14 |        140 |      2,203 |
+| d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\views\commpany\Commpany.vue            | vue        |        164 |          0 |         16 |        180 |
+| d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\views\grow\ModelData.vue               | vue        |        407 |          2 |         21 |        430 |
+| d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\views\grow\Realdata.vue                | vue        |         55 |          0 |          0 |         55 |
+| d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\views\landandsoil\Landmanage copy.vue  | vue        |        138 |          0 |          8 |        146 |
+| d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\views\landandsoil\Landmanage.vue       | vue        |        988 |         11 |         94 |      1,093 |
+| d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\views\landandsoil\Soiltype.vue         | vue        |        640 |          5 |         52 |        697 |
+| d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\views\landandsoil\Soiltype1.vue        | vue        |        678 |          5 |         56 |        739 |
+| d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\views\recommend\Recommend.vue          | vue        |         -7 |          0 |          0 |         -7 |
+| d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\views\recommend\RecommendIndex.vue     | vue        |        247 |        -24 |         29 |        252 |
+| d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\views\seedinfo\SeedPurchase.vue        | vue        |          0 |          0 |         -1 |         -1 |
+| d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\views\seedinfo\Seedcategory.vue        | vue        |          0 |          0 |         -1 |         -1 |
+| d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\views\seedinfo\Seedharvest.vue         | vue        |          0 |          0 |         -1 |         -1 |
+| d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\views\seedinfo\Seedoutput.vue          | vue        |          0 |          0 |         -1 |         -1 |
+| d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\views\seedinfo\Seedquality.vue         | vue        |          0 |          0 |         -1 |         -1 |
+| d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\views\seedinfo\Seedstorage.vue         | vue        |          0 |          0 |         -1 |         -1 |
+| d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\views\user\Cellphone.vue               | vue        |       -187 |         -1 |        -13 |       -201 |
+| d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\views\user\Email.vue                   | vue        |       -187 |         -1 |        -13 |       -201 |
+| d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\views\user\History.vue                 | vue        |        725 |         17 |         64 |        806 |
+| d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\views\user\Out.vue                     | vue        |       -187 |         -1 |        -13 |       -201 |
+| d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\views\user\UserAvatar.vue              | vue        |        -88 |          0 |        -13 |       -101 |
+| d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\views\user\UserInfo.vue                | vue        |        -58 |          0 |         -4 |        -62 |
+| d:\importantFiles\Graduation Design 2024\vueproject\crop-recommend\src\views\user\UserResetPassword.vue       | vue        |         -3 |          0 |          0 |         -3 |
+| Total                                                                                                         |            |      6,702 |         55 |        523 |      7,280 |
++---------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
